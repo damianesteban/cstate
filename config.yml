@@ -13,6 +13,9 @@ params:
     - closed: true
       description: Our APIs
       name: APIs
+  customTabs:
+    - link: 'https://stats.uptimerobot.com/x6ZV8U15nw'
+      name: Uptime Robot
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     BetterPT Status Page. We continuously monitor the status of our services and
