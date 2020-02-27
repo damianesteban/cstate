@@ -38,8 +38,8 @@ params:
     - category: Web Applications
       description: The BetterPT clinic web application.
       name: Clinic Application
-  useLargeHeaderDesign: true
-  useLogo: true
+  useLargeHeaderDesign: false
+  useLogo: false
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
