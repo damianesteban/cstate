@@ -6,7 +6,13 @@ baseURL: 'https://cstate.mnts.lt'
 params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
-  categories: []
+  categories:
+    - closed: true
+      description: Our web applications
+      name: Web Applications
+    - closed: true
+      description: Our APIs
+      name: APIs
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     BetterPT Status Page. We continuously monitor the status of our services and
