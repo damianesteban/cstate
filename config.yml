@@ -7,7 +7,7 @@ params:
   alwaysKeepBrandColor: true
   brand: '#0a0c0f'
   categories:
-    - closed: true
+    - closed: false
       description: Our web applications
       name: Web Applications
     - closed: true
