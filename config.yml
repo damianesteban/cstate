@@ -26,8 +26,7 @@ params:
   googleAnalytics: UA-00000000-1
   incidentHistoryFormat: yearly
   incidentPostsPerPage: 10
-  logo: >-
-    /img/stock-vector-earthquake-flat-cartoon-banner-vector-illustration-crack-in-earth-after-earthquake-men-and-women-1497295229.jpg
+  logo: /img/bptlogo.jpeg
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
@@ -39,7 +38,7 @@ params:
       description: The BetterPT clinic web application.
       name: Clinic Application
   useLargeHeaderDesign: false
-  useLogo: false
+  useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
