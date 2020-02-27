@@ -31,6 +31,9 @@ params:
     - category: Web Applications
       description: The BetterPT patient web application and currently the main site.
       name: Patient Application
+    - category: Web Applications
+      description: The BetterPT clinic web application.
+      name: Clinic Application
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
