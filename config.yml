@@ -23,7 +23,8 @@ params:
   googleAnalytics: UA-00000000-1
   incidentHistoryFormat: yearly
   incidentPostsPerPage: 10
-  logo: /img/bptlogo.jpeg
+  logo: >-
+    /img/stock-vector-earthquake-flat-cartoon-banner-vector-illustration-crack-in-earth-after-earthquake-men-and-women-1497295229.jpg
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
