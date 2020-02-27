@@ -27,7 +27,10 @@ params:
   notice: '#24478f'
   ok: '#008000'
   shortDateFormat: '15:04 — Jan 2'
-  systems: []
+  systems:
+    - category: Web Applications
+      description: The BetterPT patient web application and currently the main site.
+      name: Patient Application
   useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
